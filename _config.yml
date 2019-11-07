@@ -18,3 +18,4 @@ sass:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - modules
